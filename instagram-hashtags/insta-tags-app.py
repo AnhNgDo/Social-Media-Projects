@@ -15,7 +15,7 @@ from pathlib import Path
 
 
 
-MAX = 10000000
+MAX = 3000000
 MIN = 5000
 DEFAULT_TAG = 'Sydney'
 
