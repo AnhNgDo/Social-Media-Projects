@@ -39,7 +39,7 @@ def main():
     
     topic, max_post, min_post = read_inputs()
     
-    tag_db = pd.read_csv('.\insta-tags-DB-master.csv')
+    tag_db = pd.read_csv('https://github.com/AnhNgDo/Social-Media-Projects/blob/main/instagram-hashtags/insta-tags-DB-master.csv')
     
     temp_result = tag_db[(tag_db['Related Topic'].str.contains(topic.lower())) 
                     & (tag_db['Number of Posts'] >= min_post)
