@@ -1,544 +1,594 @@
 idx,Instagram Tag,Number of Posts,Related Topic
-0,#family,392927869,"#momlife, #mumblogger, #family"
-1,#instamum,2578064,"#mumblogger, #instamum"
-2,#mumblogger,1248771,#mumblogger
-3,#mumbloggersuk,62933,"#mumblogger, #mumbloggersuk"
-4,#mumbloggersaus,30,"#mumblogger, #mumbloggersaus"
-5,#mumbloggersaustralia,22,"#mumblogger, #mumbloggersaustralia"
-6,#mumbloggersunite,17,"#mumblogger, #mumbloggersunite"
-7,#mumbloggersurrey,9,"#mumblogger, #mumbloggersurrey"
-8,#mumbloggersus,8,"#mumblogger, #mumbloggersus"
-9,#mumbloggersunited,5,"#mumblogger, #mumbloggersunited"
-10,#mumbloggersu,3,"#mumblogger, #mumbloggersu"
-11,#mumbloggersusa,3,"#mumblogger, #mumbloggersusa"
-12,#mumbloggersuae,37,"#mumblogger, #mumbloggersuae, #momlife "
-13,#mummyblogger,2457426,"#mumblogger, #momlife , #mummyblogger"
-14,#mumbloggersaustria,44,"#mumblogger, #mumbloggersaustria, #momlife "
-15,#firsttimemum,711981,"#mumblogger, #firsttimemum, #momlife "
-16,#mumbloggersussex,5,"#mumblogger, #mumbloggersussex, #momlife "
-17,#mumbloggers,195216,"#mumblogger, #mumbloggers, #momlife "
-18,#mumlife,12557643,"#mumblogger, #mumlife, #momlife "
-19,#mummylife,1084739,"#mumblogger, #mummylife, #momlife "
-20,#mum,14986841,"#mumblogger, #mum, #momlife "
-21,#mumssupportingmums,887475,"#mumblogger, #momlife , #mumssupportingmums"
-22,#momlife,61439035,"#momlife, #kidlearning"
-23,#children,34635076,"#children, #kidlearning"
-24,#motherhood,25462096,"#motherhood, #kidlearning"
-25,#instakids,24561236,"#instakids, #kidlearning"
-26,#learning,17477954,"#learning, #kidlearning"
-27,#parenting,13882171,"#parenting, #kidlearning"
-28,#momsofinstagram,8528150,"#momlife, #momsofinstagram, #kidlearning"
-29,#preschool,5728874,"#preschool, #kidlearning"
-30,#familyiseverything,4788131,"#familyiseverything, #kidlearning"
-31,#kidsroom,4639688,"#kidsroom, #kidlearning"
-32,#momofboys,4442895,"#momofboys, #kidlearning"
-33,#kidsactivities,2742213,"#kidsactivities, #kidlearning"
-34,#homeschoolmom,1231981,"#homeschoolmom, #kidlearning"
-35,#familyadventures,931323,"#familyadventures, #kidlearning"
-36,#family1st,841947,"#family1st, #kidlearning"
-37,#familysession,776287,"#familysession, #kidlearning"
-38,#sydneykids,132090,"#sydneykids, #sydney, #kidlearning"
-39,#kidactivities,129623,"#kidactivities, #kidlearning"
-40,#homeschoolactivities,33869,"#homeschoolactivities, #kidlearning"
-41,#homeschoolfamilylife,31740,"#homeschoolfamilylife, #kidlearning"
-42,#prekids,14564,"#prekids, #kidlearning"
-43,#kidlearning,8119,#kidlearning
-44,#sydneymom,5407,"babygift, #sydneymom, #kidlearning"
-45,#sydneykidsactivities,2153,"#sydneykidsactivities, #kidlearning"
-46,#learningthroughbook,15,"#learningthroughbook, #kidlearning"
-47,#australia,69850000,"#australia, #babygift, #sydney"
-48,#melbourne,33630000,"#melbourne, #babygift, #sydney"
-49,#ecofriendly,14265660,"#ecofriendly, #babygift"
-50,#mommyandme,5911100,"#babygift, #mommyandme"
-51,#makersmovement,5097091,"#makersmovement, #babygift"
-52,#mommyblogger,4673944,"#mommyblogger, #babygift"
-53,#dailypost,4559164,"#babygift, #dailypost"
-54,#supporthandmade,3585459,"#supporthandmade, #babygift"
-55,#ecofashion,2988542,"#ecofashion, #babygift"
-56,#smallshoplove,594772,"#smallshoplove, #babygift"
-57,#busymomlife,433571,"#busymomlife, #babygift"
-58,#pregnancyphotography,400309,"#pregnancyphotography, #babygift"
-59,#babygiftideas,343899,"#babygiftideas, #babygift"
-60,#busymama,170593,"#busymama, #babygift"
-61,#australianbrand,161548,"#australianbrand, #babygift"
-62,#wearepregnant,34250,"#babygift, #wearepregnant"
-63,#vieraflorida,14886,"#vieraflorida, #babygift"
-64,#babygifts,1300756,"#babygift, #babygifts"
-65,#mumbloggersunder5k,3,"#mumbloggersunder5k, #momlife "
-66,#mumbloggersuku,4,"#mumbloggersuku, #momlife "
-67,#mummyblog,412895,"#mummyblog, #momlife "
-68,#mumbloggersuknewbornbabygirl,5,"#mumbloggersuknewbornbabygirl, #momlife "
-69,#mumbloggersaudia,1,"#mumbloggersaudia, #momlife "
-70,#mumbloggersunder10k,24,"#mumbloggersunder10k, #momlife "
-71,#mumbloggersubai,1,"#mumbloggersubai, #momlife "
-72,#mumbloggersunk,1,"#mumbloggersunk, #momlife "
-73,#momlifestyle,1011841,"#momlife, #momlifestyle"
-74,#momlifeishard,96410,"#momlife, #momlifeishard"
-75,#momlifeisthebestlife,2833258,"#momlife, #momlifeisthebestlife"
-76,#love,2120,"#momlife, #love"
-77,#momlifechallenge,2499,"#momlife, #momlifechallenge"
-78,#momlifeisbestlife,20403,"#momlife, #momlifeisbestlife"
-79,#momlifetoday,2674,"#momlife, #momlifetoday"
-80,#momlifevoxbox,1860,"#momlife, #momlifevoxbox"
-81,#momlifebestlife,179938,"#momlife, #momlifebestlife"
-82,#momlifemonday,3744,"#momlife, #momlifemonday"
-83,#momliferules,39839,"#momlife, #momliferules"
-84,#instagood,1370,"#instagood, #momlife"
-85,#mom,50932998,"#momlife, #mom"
-86,#babygirl,85029849,"#momlife, #babygirl"
-87,#momlifebelike,1325720,"#momlife, #momlifebelike"
-88,#momlifeisthebest,151096,"#momlife, #momlifeisthebest"
-89,#kids,105899405,"#momlife, #kids"
-90,#momliferocks,327669,"#momlife, #momliferocks"
-91,#sydney,33560000,#sydney
-92,#sydneyeats,2440000,"#sydneyeats, #sydney"
-93,#sydneyfood,1790000,"#sydneyfood, #sydney"
-94,#sydneyfoodie,1550000,"#sydneyfoodie, #sydney"
-95,#sydneylife,1490000,"#sydney, #sydneylife"
-96,#sydneylocal,1390000,"#sydneylocal, #sydney"
-97,#sydneyharbour,1200000,"#sydneyharbour, #sydney"
-98,#sydneyaustralia,1150000,"#sydney, #sydneyaustralia"
-99,#ilovesydney,1480000,"#sydney, #ilovesydney"
-100,#sydneyoperahouse,927460,"#sydneyoperahouse, #sydney"
-101,#sydneycafe,660780,"#sydneycafe, #sydney"
-102,#sydneyharbourbridge,606070,"#sydney, #sydneyharbourbridge"
-103,#sydneyfoodies,570940,"#sydneyfoodies, #sydney"
-104,#sydneyphotographer,570440,"#sydney, #sydneyphotographer"
-105,#sydneyblogger,535450,"#sydneyblogger, #sydney"
-106,#sydneyfashion,510360,"#sydneyfashion, #sydney"
-107,#sydneywedding,501210,"#sydneywedding, #sydney"
-108,#sydney_insta,490390,"#sydney_insta, #sydney"
-109,#sydneyfoodblogger,470820,"#sydneyfoodblogger, #sydney"
-110,#sydneymums,468710,"#sydneymums, #sydney"
-111,#sydneyfoodshare,449300,"#sydney, #sydneyfoodshare"
-112,#sydneyevents,357000,"#sydneyevents, #sydney"
-113,#sydneystyle,353470,"#sydneystyle, #sydney"
-114,#sydney🇦🇺,351670,"#sydney🇦🇺, #sydney"
-115,#sydneymakeupartist,344920,"#sydneymakeupartist, #sydney"
-116,#igerssydney,619760,"#igerssydney, #sydney"
-117,#sydneyartist,308610,"#sydneyartist, #sydney"
-118,#sydneycity,298730,"#sydneycity, #sydney"
-119,#sydneycommunity,293550,"#sydneycommunity, #sydney"
-120,#dogsofsydney,581520,"#dogsofsydney, #sydney"
-121,#sydneycbd,288640,"#sydneycbd, #sydney"
-122,#sydneycoffee,287610,"#sydney, #sydneycoffee"
-123,#sydneydogs,259120,"#sydney, #sydneydogs"
-124,#vividsydney,502210,"#vividsydney, #sydney"
-125,#sydneyweddings,251080,"#sydneyweddings, #sydney"
-126,#sydneyrestaurants,249630,"#sydneyrestaurants, #sydney"
-127,#sydneyflorist,243250,"#sydneyflorist, #sydney"
-128,#sydneyart,241770,"#sydney, #sydneyart"
-129,#sydneybrunch,233150,"#sydney, #sydneybrunch"
-130,#sydneyrealestate,231500,"#sydneyrealestate, #sydney"
-131,#sydneyhairdresser,228010,"#sydneyhairdresser, #sydney"
-132,#togelsydney,455590,"#sydney, #togelsydney"
-133,#sydneycafes,217530,"#sydney, #sydneycafes"
-134,#sydneyrestaurant,211030,"#sydneyrestaurant, #sydney"
-135,#sydneymua,206530,"#sydneymua, #sydney"
-136,#sydneyfolk,193270,"#sydney, #sydneyfolk"
-137,#sydneycakes,190040,"#sydney, #sydneycakes"
-138,#gaysydney,374080,"#sydney, #gaysydney"
-139,#sydneysider,184500,"#sydney, #sydneysider"
-140,#sydneybride,178310,"#sydneybride, #sydney"
-141,#sydneyweddingphotographer,175130,"#sydney, #sydneyweddingphotographer"
-142,#sydneytalker,172600,"#sydney, #sydneytalker"
-143,#sydneymodel,172520,"#sydney, #sydneymodel"
-144,#sydneyfoodblog,169750,"#sydney, #sydneyfoodblog"
-145,#sydneytattoo,166280,"#sydneytattoo, #sydney"
-146,#sydneybusiness,166020,"#sydney, #sydneybusiness"
-147,#sydneyproperty,165930,"#sydneyproperty, #sydney"
-148,#visitsydney,331810,"#visitsydney, #sydney"
-149,#sydneyfashionblogger,164840,"#sydneyfashionblogger, #sydney"
-150,#sydneylashes,159410,"#sydneylashes, #sydney"
-151,#sydneybars,159110,"#sydneybars, #sydney"
-152,#breakfastinsydney,311440,"#sydney, #breakfastinsydney"
-153,#cityofsydney,309990,"#cityofsydney, #sydney"
-154,#sydneyphotography,153230,"#sydneyphotography, #sydney"
-155,#sydneyhair,147140,"#sydneyhair, #sydney"
-156,#sydneyairport,146500,"#sydneyairport, #sydney"
-157,#sydneybeaches,145360,"#sydneybeaches, #sydney"
-158,#westernsydney,283280,"#westernsydney, #sydney"
-159,#sydneybeauty,137130,"#sydneybeauty, #sydney"
-160,#sydneyfoodporn,132580,"#sydney, #sydneyfoodporn"
-161,#sydneyfoodguide,128670,"#sydneyfoodguide, #sydney"
-162,#sydneylifestyle,124680,"#sydney, #sydneylifestyle"
-163,#sydneysalon,124580,"#sydneysalon, #sydney"
-164,#sydneyigers,123700,"#sydneyigers, #sydney"
-165,#sydneysummer,122210,"#sydney, #sydneysummer"
-166,#sydneyhairstylist,113190,"#sydneyhairstylist, #sydney"
-167,#sydneydesserts,111080,"#sydney, #sydneydesserts"
-168,#sydneybuilder,109750,"#sydneybuilder, #sydney"
-169,#sydneynails,106330,"#sydney, #sydneynails"
-170,#sydneycatering,106290,"#sydney, #sydneycatering"
-171,#sydneyfitness,106040,"#sydneyfitness, #sydney"
-172,#sydneyarchitecture,104690,"#sydneyarchitecture, #sydney"
-173,#sydneybreakfast,102870,"#sydneybreakfast, #sydney"
-174,#sydneymum,102700,"#sydneymum, #sydney"
-175,#sydneyflowers,102660,"#sydneyflowers, #sydney"
-176,#northsydney,192850,"#northsydney, #sydney"
-177,#innerwestsydney,178070,"#innerwestsydney, #sydney"
-178,#seesydney,139760,"#seesydney, #sydney"
-179,#exploresydney,137760,"#exploresydney, #sydney"
-180,#prediksisydney,133760,"#prediksisydney, #sydney"
-181,#fossilsydneysatchel,128790,"#fossilsydneysatchel, #sydney"
-182,#timeoutsydney,127700,"#timeoutsydney, #sydney"
-183,#cavoodlesofsydney,123920,"#cavoodlesofsydney, #sydney"
-184,#vegansofsydney,112770,"#vegansofsydney, #sydney"
-185,#operahousesydney,110840,"#sydney, #operahousesydney"
-186,#snapsydney,107260,"#sydney, #snapsydney"
-187,#lovesydney,105130,"#lovesydney, #sydney"
-188,#instasydney,103760,"#instasydney, #sydney"
-189,#sydneynewbornphotographer,95640,"#sydneynewbornphotographer, #sydney"
-190,#sydneystylist,91940,"#sydneystylist, #sydney"
-191,#sydneydrinks,88080,"#sydneydrinks, #sydney"
-192,#sydneyhomes,87870,"#sydney, #sydneyhomes"
-193,#sydneyfoodbloggers,87840,"#sydneyfoodbloggers, #sydney"
-194,#sydneytattooartist,84280,"#sydneytattooartist, #sydney"
-195,#sydneystreetart,82640,"#sydneystreetart, #sydney"
-196,#sydneynightlife,81070,"#sydneynightlife, #sydney"
-197,#sydneyswans,80030,"#sydneyswans, #sydney"
-198,#sydneydining,79870,"#sydneydining, #sydney"
-199,#sydneypark,77660,"#sydney, #sydneypark"
-200,#sydneymusic,77610,"#sydney, #sydneymusic"
-201,#sydneysweeney,76680,"#sydneysweeney, #sydney"
-202,#sydneydesigner,76170,"#sydneydesigner, #sydney"
-203,#sydneymarkets,74420,"#sydneymarkets, #sydney"
-204,#sydneydesign,73510,"#sydneydesign, #sydney"
-205,#sydneybrides,72450,"#sydneybrides, #sydney"
-206,#sydneyvegans,71600,"#sydneyvegans, #sydney"
-207,#sydneydessert,71600,"#sydney, #sydneydessert"
-208,#sydneyinteriors,69330,"#sydney, #sydneyinteriors"
-209,#sydneylunch,68310,"#sydney, #sydneylunch"
-210,#sydneymakeup,67600,"#sydneymakeup, #sydney"
-211,#sydneynorthernbeaches,67080,"#sydneynorthernbeaches, #sydney"
-212,#sydneygirl,66850,"#sydney, #sydneygirl"
-213,#sydneyserena,66490,"#sydneyserena, #sydney"
-214,#sydneytower,65790,"#sydneytower, #sydney"
-215,#sydneysmallbusiness,64510,"#sydneysmallbusiness, #sydney"
-216,#sydneytrip,62920,"#sydneytrip, #sydney"
-217,#sydneyfoodlover,61050,"#sydneyfoodlover, #sydney"
-218,#sydneyyoga,60640,"#sydneyyoga, #sydney"
-219,#sydneyeatstreet,60310,"#sydney, #sydneyeatstreet"
-220,#sydneyweddingphotography,59620,"#sydneyweddingphotography, #sydney"
-221,#sydneyfc,59610,"#sydneyfc, #sydney"
-222,#sydneynailart,59560,"#sydneynailart, #sydney"
-223,#sydneyshopping,59540,"#sydneyshopping, #sydney"
-224,#sydneysunset,58830,"#sydney, #sydneysunset"
-225,#sydneyfamilyphotographer,58310,"#sydneyfamilyphotographer, #sydney"
-226,#sydneydinner,57520,"#sydney, #sydneydinner"
-227,#sydneyeyelashextensions,57320,"#sydneyeyelashextensions, #sydney"
-228,#sydneybar,57120,"#sydney, #sydneybar"
-229,#sydneymardigras,56920,"#sydneymardigras, #sydney"
-230,#sydneygraffiti,56090,"#sydney, #sydneygraffiti"
-231,#sydneypools,55620,"#sydneypools, #sydney"
-232,#sydneyhairsalon,54640,"#sydneyhairsalon, #sydney"
-233,#sydneyolympicpark,53270,"#sydney, #sydneyolympicpark"
-234,#sydneysunriseclub,52900,"#sydneysunriseclub, #sydney"
-235,#sydneypubs,52440,"#sydneypubs, #sydney"
-236,#sydneyfishmarket,52230,"#sydney, #sydneyfishmarket"
-237,#sydneymade,51860,"#sydneymade, #sydney"
-238,#sydneyweekend,50590,"#sydneyweekend, #sydney"
-239,#sydneyuni,50130,"#sydney, #sydneyuni"
-240,#sydneybrunchcrawler,49320,"#sydneybrunchcrawler, #sydney"
-241,#sydneynewbornphotography,48530,"#sydneynewbornphotography, #sydney"
-242,#whatsonsydney,96990,"#whatsonsydney, #sydney"
-243,#sydneyweekender,47690,"#sydneyweekender, #sydney"
-244,#eatsydney,94780,"#eatsydney, #sydney"
-245,#sydneyfestival,46880,"#sydneyfestival, #sydney"
-246,#sydneyliving,46460,"#sydney, #sydneyliving"
-247,#sydneygram,46250,"#sydney, #sydneygram"
-248,#sydneybabyphotographer,46120,"#sydneybabyphotographer, #sydney"
-249,#sydneyweather,45910,"#sydneyweather, #sydney"
-250,#airmaxsydney,91670,"#sydney, #airmaxsydney"
-251,#sydneybrows,44720,"#sydney, #sydneybrows"
-252,#sydneyroosters,43980,"#sydneyroosters, #sydney"
-253,#sydneytrains,43930,"#sydneytrains, #sydney"
-254,#madeinsydney,86020,"#madeinsydney, #sydney"
-255,#sydneybuilders,42970,"#sydney, #sydneybuilders"
-256,#sydneytravel,42740,"#sydneytravel, #sydney"
-257,#sydneybaker,41850,"#sydneybaker, #sydney"
-258,#sydneycolourist,41220,"#sydneycolourist, #sydney"
-259,#northernbeachessydney,81530,"#sydney, #northernbeachessydney"
-260,#sydneysiders,40230,"#sydney, #sydneysiders"
-261,#sydneyroad,40210,"#sydneyroad, #sydney"
-262,#sydneyinteriordesign,40200,"#sydneyinteriordesign, #sydney"
-263,#sydneyburgers,40010,"#sydneyburgers, #sydney"
-264,#sydneyjeweller,39910,"#sydneyjeweller, #sydney"
-265,#sydneyweed,39740,"#sydneyweed, #sydney"
-266,#sydneygay,39510,"#sydney, #sydneygay"
-267,#sydneyinfluencer,39410,"#sydneyinfluencer, #sydney"
-268,#fossilsydney,78630,"#sydney, #fossilsydney"
-269,#sydneyinsta,38890,"#sydney, #sydneyinsta"
-270,#sydneymumsandbubs,38380,"#sydneymumsandbubs, #sydney"
-271,#catsofsydney,76230,"#catsofsydney, #sydney"
-272,#sydneyinstarunners,38100,"#sydneyinstarunners, #sydney"
-273,#sydneyskyline,38050,"#sydneyskyline, #sydney"
-274,#sydneyisskyblue,37560,"#sydneyisskyblue, #sydney"
-275,#sydneybridge,36640,"#sydney, #sydneybridge"
-276,#sydneyjewellery,36200,"#sydneyjewellery, #sydney"
-277,#sydneyveganguide,36140,"#sydneyveganguide, #sydney"
-278,#prediksitogelsydney,72090,"#prediksitogelsydney, #sydney"
-279,#sydneybloggers,35790,"#sydneybloggers, #sydney"
-280,#sydneyprophire,35740,"#sydney, #sydneyprophire"
-281,#sydneylove,35280,"#sydneylove, #sydney"
-282,#sydneymodels,35060,"#sydneymodels, #sydney"
-283,#sydneylashextensions,34760,"#sydneylashextensions, #sydney"
-284,#sydneyconstruction,34760,"#sydney, #sydneyconstruction"
-285,#sydneycars,34450,"#sydney, #sydneycars"
-286,#broadsheetsydney,68300,"#broadsheetsydney, #sydney"
-287,#sydneycoffeeculture,33960,"#sydney, #sydneycoffeeculture"
-288,#sydneycake,33910,"#sydney, #sydneycake"
-289,#realestatesydney,67670,"#sydney, #realestatesydney"
-290,#sydneystreets,33800,"#sydneystreets, #sydney"
-291,#sydneyeat,33790,"#sydney, #sydneyeat"
-292,#sydneystorm,33450,"#sydneystorm, #sydney"
-293,#xploresydney,66830,"#sydney, #xploresydney"
-294,#sydneycats,33230,"#sydneycats, #sydney"
-295,#sydneygallery,32860,"#sydneygallery, #sydney"
-296,#brunchinsydney,65500,"#sydney, #brunchinsydney"
-297,#sydneyboutique,32620,"#sydneyboutique, #sydney"
-298,#sydneyfoods,32500,"#sydneyfoods, #sydney"
-299,#universityofsydney,64840,"#universityofsydney, #sydney"
-300,#sydneyevent,32240,"#sydney, #sydneyevent"
-301,#sydneyartists,32180,"#sydneyartists, #sydney"
-302,#makeupartistsydney,62870,"#makeupartistsydney, #sydney"
-303,#sydneyweddingplanner,31010,"#sydneyweddingplanner, #sydney"
-304,#newtownsydney,61710,"#sydney, #newtownsydney"
-305,#sydneynorthshore,30600,"#sydneynorthshore, #sydney"
-306,#sydneygym,30530,"#sydneygym, #sydney"
-307,#sydneybaby,30480,"#sydneybaby, #sydney"
-308,#coffeesydney,59450,"#coffeesydney, #sydney"
-309,#sydneydogwalking,29480,"#sydneydogwalking, #sydney"
-310,#resultsydney,58370,"#resultsydney, #sydney"
-311,#sydneyweddingvenue,28780,"#sydneyweddingvenue, #sydney"
-312,#sydneyroyaleastershow,28290,"#sydneyroyaleastershow, #sydney"
-313,#sydneyferries,27850,"#sydney, #sydneyferries"
-314,#sydneydresshire,26990,"#sydneydresshire, #sydney"
-315,#sydneytowereye,26830,"#sydneytowereye, #sydney"
-316,#sydneypropertymarket,26800,"#sydneypropertymarket, #sydney"
-317,#sydneybased,26680,"#sydneybased, #sydney"
-318,#sydneycelebrant,26660,"#sydneycelebrant, #sydney"
-319,#sydneysunsetclub,26490,"#sydneysunsetclub, #sydney"
-320,#sydneyeventhire,26320,"#sydneyeventhire, #sydney"
-321,#bondibeachsydney,52610,"#sydney, #bondibeachsydney"
-322,#sydneyfoodcrew,26070,"#sydneyfoodcrew, #sydney"
-323,#sydneycocktails,25770,"#sydneycocktails, #sydney"
-324,#sydneynovak,25700,"#sydneynovak, #sydney"
-325,#sydneyhairextensions,25690,"#sydneyhairextensions, #sydney"
-326,#sydneyartgallery,25210,"#sydneyartgallery, #sydney"
-327,#sydneydogdaycare,25020,"#sydneydogdaycare, #sydney"
-328,#keepsydneyopen,49810,"#keepsydneyopen, #sydney"
-329,#eyelashextensionssydney,49500,"#eyelashextensionssydney, #sydney"
-330,#sydneyweddingflorist,24410,"#sydney, #sydneyweddingflorist"
-331,#sydneydentist,24400,"#sydneydentist, #sydney"
-332,#sydneyparty,24250,"#sydneyparty, #sydney"
-333,#sydneyphotographers,24210,"#sydneyphotographers, #sydney"
-334,#hairextensionssydney,48370,"#sydney, #hairextensionssydney"
-335,#ig_sydney,48260,"#sydney, #ig_sydney"
-336,#sydneyblog,24130,"#sydneyblog, #sydney"
-337,#sydneynail,24040,"#sydney, #sydneynail"
-338,#sydneyrides,23980,"#sydneyrides, #sydney"
-339,#auckland,5330000,#auckland
-340,#adelaide,6340000,#adelaide
-341,#southaustralia,3370000,#southaustralia
-342,#queensland,6240000,#queensland
-343,#perth,10560000,#perth
-344,#bondi,2500000,"#bondi, #sydney"
-345,#goldcoast,8560000,#goldcoast
-346,#brisbaneanyday,1220000,#brisbaneanyday
-347,#nz,8330000,#nz
-348,#melbourneeats,1730000,#melbourneeats
-349,#melbournefood,2380000,#melbournefood
-350,#geelong,1230000,#geelong
-351,#brisbane,11800000,#brisbane
-352,#melbournefoodie,2180000,#melbournefoodie
-353,#melbournelife,1890000,#melbournelife
-354,#perthlife,2840000,#perthlife
-355,#bondibeach,1780000,"#sydney, #bondibeach"
-356,#melbournecity,1110000,#melbournecity
-357,#visitmelbourne,1600000,#visitmelbourne
-358,#igersmelbourne,1130000,#igersmelbourne
-359,#cairns,2180000,#cairns
-360,#canberra,2920000,#canberra
-361,#nsw,4220000,"#nsw, #sydney"
-362,#qld,1760000,#qld
-363,#australiagram,3340000,#australiagram
-364,#australiaday,1040000,#australiaday
-365,#newsouthwales,1790000,#newsouthwales
-366,#downunder,1120000,#downunder
-367,#hobart,1260000,#hobart
-368,#photooftheday,932290000,#photooftheday
-369,#photography,769780000,#photography
-370,#food,449070000,#food
-371,#travel,569900000,#travel
-372,#instagram,692570000,#instagram
-373,#foodporn,264260000,#foodporn
-374,#picoftheday,656110000,#picoftheday
-375,#nature,640100000,#nature
-376,#foodie,190360000,#foodie
-377,#fashion,973290000,#fashion
-378,#delicious,128560000,#delicious
-379,#beautiful,749630000,#beautiful
-380,#art,809180000,#art
-381,#style,565990000,#style
-382,#instafood,201070000,#instafood
-383,#foodphotography,80900000,#foodphotography
-384,#design,283320000,#design
-385,#instadaily,539450000,#instadaily
-386,#foodstagram,92000000,#foodstagram
-387,#photo,402390000,#photo
-388,#homemade,97730000,#homemade
-389,#london,149670000,#london
-390,#smile,407620000,#smile
-391,#foodblogger,59560000,#foodblogger
-392,#interiordesign,124150000,#interiordesign
-393,#followme,576120000,#followme
-394,#cake,102880000,#cake
-395,#happy,640190000,#happy
-396,#beauty,458060000,#beauty
-397,#lunch,94080000,#lunch
-398,#furniture,31270000,#furniture
-399,#dinner,111400000,#dinner
-400,#foodlover,57500000,#foodlover
-401,#cooking,48840000,#cooking
-402,#tasty,56560000,#tasty
-403,#instalike,435550000,#instalike
-404,#newyork,112670000,#newyork
-405,#dessert,65140000,#dessert
-406,#breakfast,104520000,#breakfast
-407,#fitness,455620000,#fitness
-408,#photographer,206350000,#photographer
-409,#sunset,283090000,#sunset
-410,#chocolate,98530000,#chocolate
-411,#girl,432340000,#girl
-412,#homedecor,97000000,#homedecor
-413,#travelphotography,154950000,#travelphotography
-414,#beach,270060000,#beach
-415,#dubai,109810000,#dubai
-416,#travelgram,144240000,#travelgram
-417,#summer,499130000,#summer
-418,#bhfyp,122210000,#bhfyp
-419,#amazing,295380000,#amazing
-420,#likeforlikes,298210000,#likeforlikes
-421,#decoration,44430000,#decoration
-422,#marketing,55660000,#marketing
-423,#homecooking,18360000,#homecooking
-424,#like4like,534720000,#like4like
-425,#naturephotography,160830000,#naturephotography
-426,#paris,129150000,#paris
-427,#cute,632730000,#cute
-428,#healthy,174590000,#healthy
-429,#designer,75810000,#designer
-430,#igers,292120000,#igers
-431,#life,384800000,#life
-432,#eat,50510000,#eat
-433,#landscape,166300000,#landscape
-434,#sky,241580000,#sky
-435,#decor,77340000,#decor
-436,#healthyfood,96990000,#healthyfood
-437,#canada,70230000,#canada
-438,#homedesign,25780000,#homedesign
-439,#furnituredesign,8970000,#furnituredesign
-440,#foodgasm,60690000,#foodgasm
-441,#home,174840000,#home
-442,#business,84590000,#business
-443,#makeup,343760000,#makeup
-444,#interior,68020000,#interior
-445,#sweet,125200000,#sweet
-446,#baking,32330000,#baking
-447,#sea,155030000,#sea
-448,#italy,141890000,#italy
-449,#followforfollowback,198220000,#followforfollowback
-450,#ootd,367970000,#ootd
-451,#interiors,28110000,#interiors
-452,#dentistry,7100000,#dentistry
-453,#lifestyle,278280000,#lifestyle
-454,#wedding,206390000,#wedding
-455,#me,450430000,#me
-456,#dentist,9820000,#dentist
-457,#model,309820000,#model
-458,#healthylifestyle,90970000,#healthylifestyle
-459,#odontologia,9830000,#odontologia
-460,#losangeles,74670000,#losangeles
-461,#weddingdress,43220000,#weddingdress
-462,#dental,6050000,#dental
-463,#california,93010000,#california
-464,#miami,79550000,#miami
-465,#branding,29990000,#branding
-466,#photoshoot,142510000,#photoshoot
-467,#bestoftheday,214260000,#bestoftheday
-468,#follow4follow,300500000,#follow4follow
-469,#motivation,277980000,#motivation
-470,#explore,234330000,#explore
-471,#berlin,48060000,#berlin
-472,#cakes,24010000,#cakes
-473,#clouds,120740000,#clouds
-474,#eggs,14130000,#eggs
-475,#inspiration,202030000,#inspiration
-476,#sunrise,75650000,#sunrise
-477,#friends,421740000,#friends
-478,#gym,212060000,#gym
-479,#stayhome,54660000,#stayhome
-480,#illustration,166450000,#illustration
-481,#mountains,91110000,#mountains
-482,#running,76350000,#running
-483,#sun,258740000,#sun
-484,#logo,26200000,#logo
-485,#interiorstyling,12720000,#interiorstyling
-486,#seeaustralia,5620000,#seeaustralia
-487,#dresses,25090000,#dresses
-488,#luxuryfurniture,1430000,#luxuryfurniture
-489,#fun,418480000,#fun
-490,#architecture,150390000,#architecture
-491,#bride,68850000,#bride
-492,#barcelona,62280000,#barcelona
-493,#massage,11400000,#massage
-494,#seo,6140000,#seo
-495,#india,133270000,#india
-496,#training,118890000,#training
-497,#adelaidefoodie,207540,#adelaidefoodie
-498,#adelaideeats,181130,#adelaideeats
-499,#aucklandcity,471160,#aucklandcity
-500,#melbournebrunch,463390,#melbournebrunch
-501,#melbournecafes,339900,#melbournecafes
-502,#melbournerestaurant,405720,#melbournerestaurant
-503,#mosman,230840,#mosman
-504,#maroubra,225080,#maroubra
-505,#coogee,493240,#coogee
-506,#glebe,186490,#glebe
-507,#parramatta,307420,#parramatta
-508,#randwick,128310,#randwick
-509,#redfern,161840,#redfern
-510,#melbournefoodblogger,385580,#melbournefoodblogger
-511,#melbournefoodscene,237870,#melbournefoodscene
-512,#eatmelbourne,344160,#eatmelbourne
-513,#southyarra,376790,#southyarra
-514,#melbournefoodies,406730,#melbournefoodies
-515,#melbourne_insta,477390,#melbourne_insta
-516,#australiagram_nsw,114470,#australiagram_nsw
-517,#stkilda,999110,#stkilda
-518,#ilovemelbourne,569840,#ilovemelbourne
-519,#zomatoaus,562650,#zomatoaus
-520,#goodfoodau,181260,#goodfoodau
-521,#melbmoment,387360,#melbmoment
-522,#brisbanefoodie,559890,#brisbanefoodie
-523,#brisbanefood,831710,#brisbanefood
-524,#brisbanecity,980280,#brisbanecity
-525,#melbournecbd,475440,#melbournecbd
-526,#wollongong,931250,#wollongong
-527,#brisbanefoodies,167770,#brisbanefoodies
-528,#harbourbridge,828570,#harbourbridge
-529,#northernbeaches,937790,#northernbeaches
-530,#surryhills,549740,#surryhills
-531,#darlingharbour,622130,#darlingharbour
-532,#southmelbourne,235870,#southmelbourne
-533,#fremantle,894020,#fremantle
-534,#broadbeach,309550,#broadbeach
-535,#watsonsbay,170700,#watsonsbay
-536,#circularquay,305340,#circularquay
-537,#tauranga,449920,#tauranga
-538,#stkildabeach,195950,#stkildabeach
-539,#portmelbourne,253850,#portmelbourne
-544,#toronto,644330,"#toronto, #sydney"
-545,#melbournefoodiehub,47460,#melbournefoodiehub
-547,#savehospo,37870,#savehospo
+0,#family,392927869.0,"#mumblogger, #family, #momlife"
+1,#instamum,2578064.0,"#mumblogger, #instamum"
+2,#mumblogger,1248771.0,#mumblogger
+3,#mumbloggersuk,62933.0,"#mumblogger, #mumbloggersuk"
+4,#mumbloggersaus,30.0,"#mumbloggersaus, #mumblogger"
+5,#mumbloggersaustralia,22.0,"#mumblogger, #mumbloggersaustralia"
+6,#mumbloggersunite,17.0,"#mumblogger, #mumbloggersunite"
+7,#mumbloggersurrey,9.0,"#mumblogger, #mumbloggersurrey"
+8,#mumbloggersus,8.0,"#mumblogger, #mumbloggersus"
+9,#mumbloggersunited,5.0,"#mumblogger, #mumbloggersunited"
+10,#mumbloggersu,3.0,"#mumbloggersu, #mumblogger"
+11,#mumbloggersusa,3.0,"#mumbloggersusa, #mumblogger"
+12,#mumbloggersuae,37.0,"#mumbloggersuae, #mumblogger, #momlife "
+13,#mummyblogger,2457426.0,"#mummyblogger, #mumblogger, #momlife "
+14,#mumbloggersaustria,44.0,"#mumblogger, #momlife , #mumbloggersaustria"
+15,#firsttimemum,711981.0,"#firsttimemum, #mumblogger, #momlife "
+16,#mumbloggersussex,5.0,"#mumblogger, #momlife , #mumbloggersussex"
+17,#mumbloggers,195216.0,"#mumbloggers, #mumblogger, #momlife "
+18,#mumlife,12557643.0,"#mumlife, #mumblogger, #momlife "
+19,#mummylife,1084739.0,"#momlife , #mumblogger, #mummylife"
+20,#mum,14986841.0,"#momlife , #mumblogger, #mum"
+21,#mumssupportingmums,887475.0,"#mumblogger, #momlife , #mumssupportingmums"
+22,#momlife,61439035.0,"#kidlearning, #momlife"
+23,#children,34635076.0,"#kidlearning, #children"
+24,#motherhood,25462096.0,"#kidlearning, #motherhood"
+25,#instakids,24561236.0,"#kidlearning, #instakids"
+26,#learning,17477954.0,"#learning, #kidlearning"
+27,#parenting,13882171.0,"#parenting, #kidlearning"
+28,#momsofinstagram,8528150.0,"#kidlearning, #momsofinstagram, #momlife"
+29,#preschool,5728874.0,"#kidlearning, #preschool"
+30,#familyiseverything,4788131.0,"#familyiseverything, #kidlearning"
+31,#kidsroom,4639688.0,"#kidlearning, #kidsroom"
+32,#momofboys,4442895.0,"#kidlearning, #momofboys"
+33,#kidsactivities,2742213.0,"#kidlearning, #kidsactivities"
+34,#homeschoolmom,1231981.0,"#homeschoolmom, #kidlearning"
+35,#familyadventures,931323.0,"#kidlearning, #familyadventures"
+36,#family1st,841947.0,"#kidlearning, #family1st"
+37,#familysession,776287.0,"#kidlearning, #familysession"
+38,#sydneykids,132090.0,"#kidlearning, #sydneykids, #sydney"
+39,#kidactivities,129623.0,"#kidactivities, #kidlearning"
+40,#homeschoolactivities,33869.0,"#kidlearning, #homeschoolactivities"
+41,#homeschoolfamilylife,31740.0,"#kidlearning, #homeschoolfamilylife"
+42,#prekids,14564.0,"#prekids, #kidlearning"
+43,#kidlearning,8119.0,#kidlearning
+44,#sydneymom,5407.0,"#kidlearning, babygift, #sydneymom"
+45,#sydneykidsactivities,2153.0,"#sydneykidsactivities, #kidlearning"
+46,#learningthroughbook,15.0,"#kidlearning, #learningthroughbook"
+47,#australia,69850000.0,"#australia, #sydney, #babygift"
+48,#melbourne,33630000.0,"#sydney, #melbourne, #babygift"
+49,#ecofriendly,14265660.0,"#ecofriendly, #babygift"
+50,#mommyandme,5911100.0,"#mommyandme, #babygift"
+51,#makersmovement,5097091.0,"#babygift, #makersmovement"
+52,#mommyblogger,4673944.0,"#mommyblogger, #babygift"
+53,#dailypost,4559164.0,"#dailypost, #babygift"
+54,#supporthandmade,3585459.0,"#supporthandmade, #babygift"
+55,#ecofashion,2988542.0,"#ecofashion, #babygift"
+56,#smallshoplove,594772.0,"#smallshoplove, #babygift"
+57,#busymomlife,433571.0,"#busymomlife, #babygift"
+58,#pregnancyphotography,400309.0,"#pregnancyphotography, #babygift"
+59,#babygiftideas,343899.0,"#babygiftideas, #babygift"
+60,#busymama,170593.0,"#busymama, #babygift"
+61,#australianbrand,161548.0,"#australianbrand, #babygift"
+62,#wearepregnant,34250.0,"#wearepregnant, #babygift"
+63,#vieraflorida,14886.0,"#vieraflorida, #babygift"
+64,#babygifts,1300756.0,"#babygifts, #babygift"
+65,#mumbloggersunder5k,3.0,"#momlife , #mumbloggersunder5k"
+66,#mumbloggersuku,4.0,"#mumbloggersuku, #momlife "
+67,#mummyblog,412895.0,"#mummyblog, #momlife "
+68,#mumbloggersuknewbornbabygirl,5.0,"#mumbloggersuknewbornbabygirl, #momlife "
+69,#mumbloggersaudia,1.0,"#mumbloggersaudia, #momlife "
+70,#mumbloggersunder10k,24.0,"#momlife , #mumbloggersunder10k"
+71,#mumbloggersubai,1.0,"#mumbloggersubai, #momlife "
+72,#mumbloggersunk,1.0,"#mumbloggersunk, #momlife "
+73,#momlifestyle,1011841.0,"#momlifestyle, #momlife"
+74,#momlifeishard,96410.0,"#momlifeishard, #momlife"
+75,#momlifeisthebestlife,2833258.0,"#momlifeisthebestlife, #momlife"
+76,#love,2120.0,"#love, #momlife"
+77,#momlifechallenge,2499.0,"#momlifechallenge, #momlife"
+78,#momlifeisbestlife,20403.0,"#momlifeisbestlife, #momlife"
+79,#momlifetoday,2674.0,"#momlifetoday, #momlife"
+80,#momlifevoxbox,1860.0,"#momlifevoxbox, #momlife"
+81,#momlifebestlife,179938.0,"#momlifebestlife, #momlife"
+82,#momlifemonday,3744.0,"#momlifemonday, #momlife"
+83,#momliferules,39839.0,"#momliferules, #momlife"
+84,#instagood,1370.0,"#instagood, #momlife"
+85,#mom,50932998.0,"#mom, #momlife"
+86,#babygirl,85029849.0,"#babygirl, #momlife"
+87,#momlifebelike,1325720.0,"#momlifebelike, #momlife"
+88,#momlifeisthebest,151096.0,"#momlifeisthebest, #momlife"
+89,#kids,105899405.0,"#kids, #momlife"
+90,#momliferocks,327669.0,"#momliferocks, #momlife"
+91,#sydney,33560000.0,#sydney
+92,#sydneyeats,2440000.0,"#sydney, #sydneyeats"
+93,#sydneyfood,1790000.0,"#sydneyfood, #sydney"
+94,#sydneyfoodie,1550000.0,"#sydneyfoodie, #sydney"
+95,#sydneylife,1490000.0,"#sydneylife, #sydney"
+96,#sydneylocal,1390000.0,"#sydneylocal, #sydney"
+97,#sydneyharbour,1200000.0,"#sydney, #sydneyharbour"
+98,#sydneyaustralia,1150000.0,"#sydneyaustralia, #sydney"
+99,#ilovesydney,1480000.0,"#ilovesydney, #sydney"
+100,#sydneyoperahouse,927460.0,"#sydney, #sydneyoperahouse"
+101,#sydneycafe,660780.0,"#sydneycafe, #sydney"
+102,#sydneyharbourbridge,606070.0,"#sydney, #sydneyharbourbridge, #visitsydney"
+103,#sydneyfoodies,570940.0,"#sydney, #sydneyfoodies"
+104,#sydneyphotographer,570440.0,"#sydney, #sydneyphotographer"
+105,#sydneyblogger,535450.0,"#sydneyblogger, #sydney"
+106,#sydneyfashion,510360.0,"#sydneyfashion, #sydney"
+107,#sydneywedding,501210.0,"#sydney, #sydneywedding"
+108,#sydney_insta,490390.0,"#sydney, #sydney_insta"
+109,#sydneyfoodblogger,470820.0,"#sydney, #sydneyfoodblogger"
+110,#sydneymums,468710.0,"#sydneymums, #sydney"
+111,#sydneyfoodshare,449300.0,"#sydney, #sydneyfoodshare"
+112,#sydneyevents,357000.0,"#sydneyevents, #sydney"
+113,#sydneystyle,353470.0,"#sydneystyle, #sydney"
+114,#sydney🇦🇺,351670.0,"#sydney🇦🇺, #sydney"
+115,#sydneymakeupartist,344920.0,"#sydney, #sydneymakeupartist"
+116,#igerssydney,619760.0,"#igerssydney, #sydney"
+117,#sydneyartist,308610.0,"#sydney, #sydneyartist"
+118,#sydneycity,298730.0,"#sydney, #sydneycity"
+119,#sydneycommunity,293550.0,"#sydney, #sydneycommunity"
+120,#dogsofsydney,581520.0,"#dogsofsydney, #sydney"
+121,#sydneycbd,288640.0,"#sydney, #sydneycbd"
+122,#sydneycoffee,287610.0,"#sydneycoffee, #sydney"
+123,#sydneydogs,259120.0,"#sydneydogs, #sydney"
+124,#vividsydney,502210.0,"#vividsydney, #sydney"
+125,#sydneyweddings,251080.0,"#sydneyweddings, #sydney"
+126,#sydneyrestaurants,249630.0,"#sydney, #sydneyrestaurants"
+127,#sydneyflorist,243250.0,"#sydney, #sydneyflorist"
+128,#sydneyart,241770.0,"#sydneyart, #sydney"
+129,#sydneybrunch,233150.0,"#sydneybrunch, #sydney"
+130,#sydneyrealestate,231500.0,"#sydney, #sydneyrealestate"
+131,#sydneyhairdresser,228010.0,"#sydneyhairdresser, #sydney"
+132,#togelsydney,455590.0,"#togelsydney, #sydney"
+133,#sydneycafes,217530.0,"#sydney, #sydneycafes"
+134,#sydneyrestaurant,211030.0,"#sydneyrestaurant, #sydney"
+135,#sydneymua,206530.0,"#sydneymua, #sydney"
+136,#sydneyfolk,193270.0,"#sydney, #sydneyfolk"
+137,#sydneycakes,190040.0,"#sydneycakes, #sydney"
+138,#gaysydney,374080.0,"#gaysydney, #sydney"
+139,#sydneysider,184620.0,"#sydney, #sydneysider, #visitsydney"
+140,#sydneybride,178310.0,"#sydneybride, #sydney"
+141,#sydneyweddingphotographer,175130.0,"#sydneyweddingphotographer, #sydney"
+142,#sydneytalker,172600.0,"#sydney, #sydneytalker"
+143,#sydneymodel,172520.0,"#sydneymodel, #sydney"
+144,#sydneyfoodblog,169750.0,"#sydney, #sydneyfoodblog"
+145,#sydneytattoo,166280.0,"#sydney, #sydneytattoo"
+146,#sydneybusiness,166020.0,"#sydneybusiness, #sydney"
+147,#sydneyproperty,165930.0,"#sydney, #sydneyproperty"
+148,#visitsydney,331810.0,"#sydney, #visitsydney"
+149,#sydneyfashionblogger,164840.0,"#sydneyfashionblogger, #sydney"
+150,#sydneylashes,159410.0,"#sydneylashes, #sydney"
+151,#sydneybars,159110.0,"#sydney, #sydneybars"
+152,#breakfastinsydney,311440.0,"#sydney, #breakfastinsydney"
+153,#cityofsydney,309990.0,"#cityofsydney, #sydney"
+154,#sydneyphotography,153230.0,"#sydneyphotography, #sydney"
+155,#sydneyhair,147140.0,"#sydneyhair, #sydney"
+156,#sydneyairport,146500.0,"#sydney, #sydneyairport"
+157,#sydneybeaches,145360.0,"#sydneybeaches, #sydney"
+158,#westernsydney,283280.0,"#westernsydney, #sydney"
+159,#sydneybeauty,137130.0,"#sydneybeauty, #sydney"
+160,#sydneyfoodporn,132580.0,"#sydney, #sydneyfoodporn"
+161,#sydneyfoodguide,128670.0,"#sydneyfoodguide, #sydney"
+162,#sydneylifestyle,124680.0,"#sydneylifestyle, #sydney"
+163,#sydneysalon,124580.0,"#sydney, #sydneysalon"
+164,#sydneyigers,123700.0,"#sydney, #sydneyigers"
+165,#sydneysummer,122210.0,"#sydneysummer, #sydney"
+166,#sydneyhairstylist,113190.0,"#sydney, #sydneyhairstylist"
+167,#sydneydesserts,111080.0,"#sydneydesserts, #sydney"
+168,#sydneybuilder,109750.0,"#sydneybuilder, #sydney"
+169,#sydneynails,106330.0,"#sydneynails, #sydney"
+170,#sydneycatering,106290.0,"#sydney, #sydneycatering"
+171,#sydneyfitness,106040.0,"#sydney, #sydneyfitness"
+172,#sydneyarchitecture,104690.0,"#sydneyarchitecture, #sydney"
+173,#sydneybreakfast,102870.0,"#sydneybreakfast, #sydney"
+174,#sydneymum,102700.0,"#sydney, #sydneymum"
+175,#sydneyflowers,102660.0,"#sydney, #sydneyflowers"
+176,#northsydney,192850.0,"#northsydney, #sydney"
+177,#innerwestsydney,178070.0,"#innerwestsydney, #sydney"
+178,#seesydney,139760.0,"#sydney, #seesydney"
+179,#exploresydney,137760.0,"#sydney, #exploresydney"
+180,#prediksisydney,133760.0,"#sydney, #prediksisydney"
+181,#fossilsydneysatchel,128790.0,"#sydney, #fossilsydneysatchel"
+182,#timeoutsydney,127700.0,"#timeoutsydney, #sydney"
+183,#cavoodlesofsydney,123920.0,"#cavoodlesofsydney, #sydney"
+184,#vegansofsydney,112770.0,"#vegansofsydney, #sydney"
+185,#operahousesydney,110840.0,"#sydney, #operahousesydney"
+186,#snapsydney,107260.0,"#snapsydney, #sydney"
+187,#lovesydney,105130.0,"#sydney, #lovesydney"
+188,#instasydney,103760.0,"#instasydney, #sydney"
+189,#sydneynewbornphotographer,95640.0,"#sydney, #sydneynewbornphotographer"
+190,#sydneystylist,91940.0,"#sydney, #sydneystylist"
+191,#sydneydrinks,88080.0,"#sydneydrinks, #sydney"
+192,#sydneyhomes,87870.0,"#sydneyhomes, #sydney"
+193,#sydneyfoodbloggers,87840.0,"#sydneyfoodbloggers, #sydney"
+194,#sydneytattooartist,84280.0,"#sydneytattooartist, #sydney"
+195,#sydneystreetart,82640.0,"#sydneystreetart, #sydney"
+196,#sydneynightlife,81070.0,"#sydney, #sydneynightlife"
+197,#sydneyswans,80030.0,"#sydneyswans, #sydney"
+198,#sydneydining,79870.0,"#sydneydining, #sydney"
+199,#sydneypark,77660.0,"#sydneypark, #sydney"
+200,#sydneymusic,77610.0,"#sydney, #sydneymusic"
+201,#sydneysweeney,76680.0,"#sydney, #sydneysweeney"
+202,#sydneydesigner,76170.0,"#sydney, #sydneydesigner"
+203,#sydneymarkets,74420.0,"#sydneymarkets, #sydney"
+204,#sydneydesign,73510.0,"#sydneydesign, #sydney"
+205,#sydneybrides,72450.0,"#sydneybrides, #sydney"
+206,#sydneyvegans,71600.0,"#sydney, #sydneyvegans"
+207,#sydneydessert,71600.0,"#sydneydessert, #sydney"
+208,#sydneyinteriors,69330.0,"#sydneyinteriors, #sydney"
+209,#sydneylunch,68310.0,"#sydney, #sydneylunch"
+210,#sydneymakeup,67600.0,"#sydney, #sydneymakeup"
+211,#sydneynorthernbeaches,67080.0,"#sydney, #sydneynorthernbeaches"
+212,#sydneygirl,66850.0,"#sydneygirl, #sydney"
+213,#sydneyserena,66490.0,"#sydney, #sydneyserena"
+214,#sydneytower,65790.0,"#sydneytower, #sydney"
+215,#sydneysmallbusiness,64510.0,"#sydney, #sydneysmallbusiness"
+216,#sydneytrip,62920.0,"#sydneytrip, #sydney"
+217,#sydneyfoodlover,61050.0,"#sydneyfoodlover, #sydney"
+218,#sydneyyoga,60640.0,"#sydneyyoga, #sydney"
+219,#sydneyeatstreet,60310.0,"#sydney, #sydneyeatstreet"
+220,#sydneyweddingphotography,59620.0,"#sydneyweddingphotography, #sydney"
+221,#sydneyfc,59610.0,"#sydneyfc, #sydney"
+222,#sydneynailart,59560.0,"#sydneynailart, #sydney"
+223,#sydneyshopping,59540.0,"#sydneyshopping, #sydney"
+224,#sydneysunset,58830.0,"#sydney, #sydneysunset"
+225,#sydneyfamilyphotographer,58310.0,"#sydney, #sydneyfamilyphotographer"
+226,#sydneydinner,57520.0,"#sydney, #sydneydinner"
+227,#sydneyeyelashextensions,57320.0,"#sydney, #sydneyeyelashextensions"
+228,#sydneybar,57120.0,"#sydney, #sydneybar"
+229,#sydneymardigras,56920.0,"#sydney, #sydneymardigras"
+230,#sydneygraffiti,56090.0,"#sydneygraffiti, #sydney"
+231,#sydneypools,55620.0,"#sydney, #sydneypools"
+232,#sydneyhairsalon,54640.0,"#sydneyhairsalon, #sydney"
+233,#sydneyolympicpark,53270.0,"#sydney, #sydneyolympicpark"
+234,#sydneysunriseclub,52900.0,"#sydneysunriseclub, #sydney"
+235,#sydneypubs,52440.0,"#sydney, #sydneypubs"
+236,#sydneyfishmarket,52230.0,"#sydneyfishmarket, #sydney"
+237,#sydneymade,51860.0,"#sydneymade, #sydney"
+238,#sydneyweekend,50590.0,"#sydney, #sydneyweekend"
+239,#sydneyuni,50130.0,"#sydney, #sydneyuni"
+240,#sydneybrunchcrawler,49320.0,"#sydneybrunchcrawler, #sydney"
+241,#sydneynewbornphotography,48530.0,"#sydneynewbornphotography, #sydney"
+242,#whatsonsydney,96990.0,"#whatsonsydney, #sydney"
+243,#sydneyweekender,47690.0,"#sydney, #sydneyweekender"
+244,#eatsydney,94780.0,"#eatsydney, #sydney"
+245,#sydneyfestival,46880.0,"#sydney, #sydneyfestival"
+246,#sydneyliving,46460.0,"#sydney, #sydneyliving"
+247,#sydneygram,46250.0,"#sydney, #sydneygram"
+248,#sydneybabyphotographer,46120.0,"#sydneybabyphotographer, #sydney"
+249,#sydneyweather,45910.0,"#sydney, #sydneyweather"
+250,#airmaxsydney,91670.0,"#sydney, #airmaxsydney"
+251,#sydneybrows,44720.0,"#sydneybrows, #sydney"
+252,#sydneyroosters,43980.0,"#sydneyroosters, #sydney"
+253,#sydneytrains,43930.0,"#sydneytrains, #sydney"
+254,#madeinsydney,86020.0,"#madeinsydney, #sydney"
+255,#sydneybuilders,42970.0,"#sydneybuilders, #sydney"
+256,#sydneytravel,42740.0,"#sydney, #sydneytravel, #visitsydney"
+257,#sydneybaker,41850.0,"#sydney, #sydneybaker"
+258,#sydneycolourist,41220.0,"#sydneycolourist, #sydney"
+259,#northernbeachessydney,81530.0,"#northernbeachessydney, #sydney"
+260,#sydneysiders,40230.0,"#sydneysiders, #sydney"
+261,#sydneyroad,40210.0,"#sydney, #sydneyroad"
+262,#sydneyinteriordesign,40200.0,"#sydney, #sydneyinteriordesign"
+263,#sydneyburgers,40010.0,"#sydneyburgers, #sydney"
+264,#sydneyjeweller,39910.0,"#sydney, #sydneyjeweller"
+265,#sydneyweed,39740.0,"#sydney, #sydneyweed"
+266,#sydneygay,39510.0,"#sydneygay, #sydney"
+267,#sydneyinfluencer,39410.0,"#sydneyinfluencer, #sydney"
+268,#fossilsydney,78630.0,"#fossilsydney, #sydney"
+269,#sydneyinsta,38890.0,"#sydneyinsta, #sydney, #visitsydney"
+270,#sydneymumsandbubs,38380.0,"#sydney, #sydneymumsandbubs"
+271,#catsofsydney,76230.0,"#sydney, #catsofsydney"
+272,#sydneyinstarunners,38100.0,"#sydneyinstarunners, #sydney"
+273,#sydneyskyline,38050.0,"#sydney, #sydneyskyline"
+274,#sydneyisskyblue,37560.0,"#sydney, #sydneyisskyblue"
+275,#sydneybridge,36640.0,"#sydneybridge, #sydney"
+276,#sydneyjewellery,36200.0,"#sydneyjewellery, #sydney"
+277,#sydneyveganguide,36140.0,"#sydney, #sydneyveganguide"
+278,#prediksitogelsydney,72090.0,"#sydney, #prediksitogelsydney"
+279,#sydneybloggers,35790.0,"#sydneybloggers, #sydney"
+280,#sydneyprophire,35740.0,"#sydneyprophire, #sydney"
+281,#sydneylove,35280.0,"#sydneylove, #sydney"
+282,#sydneymodels,35060.0,"#sydneymodels, #sydney"
+283,#sydneylashextensions,34760.0,"#sydneylashextensions, #sydney"
+284,#sydneyconstruction,34760.0,"#sydney, #sydneyconstruction"
+285,#sydneycars,34450.0,"#sydney, #sydneycars"
+286,#broadsheetsydney,68300.0,"#sydney, #broadsheetsydney"
+287,#sydneycoffeeculture,33960.0,"#sydney, #sydneycoffeeculture"
+288,#sydneycake,33910.0,"#sydneycake, #sydney"
+289,#realestatesydney,67670.0,"#realestatesydney, #sydney"
+290,#sydneystreets,33800.0,"#sydneystreets, #sydney"
+291,#sydneyeat,33790.0,"#sydney, #sydneyeat"
+292,#sydneystorm,33450.0,"#sydney, #sydneystorm"
+293,#xploresydney,66830.0,"#sydney, #xploresydney"
+294,#sydneycats,33230.0,"#sydney, #sydneycats"
+295,#sydneygallery,32860.0,"#sydney, #sydneygallery"
+296,#brunchinsydney,65500.0,"#sydney, #brunchinsydney"
+297,#sydneyboutique,32620.0,"#sydneyboutique, #sydney"
+298,#sydneyfoods,32500.0,"#sydneyfoods, #sydney"
+299,#universityofsydney,64840.0,"#sydney, #universityofsydney"
+300,#sydneyevent,32240.0,"#sydneyevent, #sydney"
+301,#sydneyartists,32180.0,"#sydney, #sydneyartists"
+302,#makeupartistsydney,62870.0,"#sydney, #makeupartistsydney"
+303,#sydneyweddingplanner,31010.0,"#sydney, #sydneyweddingplanner"
+304,#newtownsydney,61710.0,"#sydney, #newtownsydney"
+305,#sydneynorthshore,30600.0,"#sydneynorthshore, #sydney"
+306,#sydneygym,30530.0,"#sydney, #sydneygym"
+307,#sydneybaby,30480.0,"#sydney, #sydneybaby"
+308,#coffeesydney,59450.0,"#sydney, #coffeesydney"
+309,#sydneydogwalking,29480.0,"#sydneydogwalking, #sydney"
+310,#resultsydney,58370.0,"#sydney, #resultsydney"
+311,#sydneyweddingvenue,28780.0,"#sydneyweddingvenue, #sydney"
+312,#sydneyroyaleastershow,28290.0,"#sydney, #sydneyroyaleastershow"
+313,#sydneyferries,27850.0,"#sydney, #sydneyferries"
+314,#sydneydresshire,26990.0,"#sydneydresshire, #sydney"
+315,#sydneytowereye,26830.0,"#sydneytowereye, #sydney"
+316,#sydneypropertymarket,26800.0,"#sydney, #sydneypropertymarket"
+317,#sydneybased,26680.0,"#sydneybased, #sydney"
+318,#sydneycelebrant,26660.0,"#sydney, #sydneycelebrant"
+319,#sydneysunsetclub,26490.0,"#sydneysunsetclub, #sydney"
+320,#sydneyeventhire,26320.0,"#sydneyeventhire, #sydney"
+321,#bondibeachsydney,52610.0,"#sydney, #bondibeachsydney"
+322,#sydneyfoodcrew,26070.0,"#sydney, #sydneyfoodcrew"
+323,#sydneycocktails,25770.0,"#sydneycocktails, #sydney"
+324,#sydneynovak,25700.0,"#sydneynovak, #sydney"
+325,#sydneyhairextensions,25690.0,"#sydney, #sydneyhairextensions"
+326,#sydneyartgallery,25210.0,"#sydney, #sydneyartgallery"
+327,#sydneydogdaycare,25020.0,"#sydney, #sydneydogdaycare"
+328,#keepsydneyopen,49810.0,"#sydney, #keepsydneyopen"
+329,#eyelashextensionssydney,49500.0,"#eyelashextensionssydney, #sydney"
+330,#sydneyweddingflorist,24410.0,"#sydneyweddingflorist, #sydney"
+331,#sydneydentist,24400.0,"#sydneydentist, #sydney"
+332,#sydneyparty,24250.0,"#sydneyparty, #sydney"
+333,#sydneyphotographers,24210.0,"#sydneyphotographers, #sydney"
+334,#hairextensionssydney,48370.0,"#sydney, #hairextensionssydney"
+335,#ig_sydney,48260.0,"#ig_sydney, #sydney"
+336,#sydneyblog,24130.0,"#sydney, #sydneyblog"
+337,#sydneynail,24040.0,"#sydney, #sydneynail"
+338,#sydneyrides,23980.0,"#sydney, #sydneyrides"
+339,#auckland,5330000.0,#auckland
+340,#adelaide,6340000.0,#adelaide
+341,#southaustralia,3370000.0,#southaustralia
+342,#queensland,6240000.0,#queensland
+343,#perth,10560000.0,#perth
+344,#bondi,2500000.0,"#bondi, #sydney"
+345,#goldcoast,8560000.0,#goldcoast
+346,#brisbaneanyday,1220000.0,#brisbaneanyday
+347,#nz,8330000.0,#nz
+348,#melbourneeats,1730000.0,#melbourneeats
+349,#melbournefood,2380000.0,#melbournefood
+350,#geelong,1230000.0,#geelong
+351,#brisbane,11800000.0,#brisbane
+352,#melbournefoodie,2180000.0,#melbournefoodie
+353,#melbournelife,1890000.0,#melbournelife
+354,#perthlife,2840000.0,#perthlife
+355,#bondibeach,1780000.0,"#sydney, #bondibeach"
+356,#melbournecity,1110000.0,#melbournecity
+357,#visitmelbourne,1600000.0,#visitmelbourne
+358,#igersmelbourne,1130000.0,#igersmelbourne
+359,#cairns,2180000.0,#cairns
+360,#canberra,2920000.0,#canberra
+361,#nsw,4220000.0,"#nsw, #sydney"
+362,#qld,1760000.0,#qld
+363,#australiagram,3340000.0,#australiagram
+364,#australiaday,1040000.0,#australiaday
+365,#newsouthwales,1790000.0,#newsouthwales
+366,#downunder,1120000.0,#downunder
+367,#hobart,1260000.0,#hobart
+368,#photooftheday,932290000.0,#photooftheday
+369,#photography,769780000.0,#photography
+370,#food,449070000.0,#food
+371,#travel,569900000.0,#travel
+372,#instagram,692570000.0,#instagram
+373,#foodporn,264260000.0,#foodporn
+374,#picoftheday,656110000.0,#picoftheday
+375,#nature,640100000.0,#nature
+376,#foodie,190360000.0,#foodie
+377,#fashion,973290000.0,#fashion
+378,#delicious,128560000.0,#delicious
+379,#beautiful,749630000.0,#beautiful
+380,#art,809180000.0,#art
+381,#style,565990000.0,#style
+382,#instafood,201070000.0,#instafood
+383,#foodphotography,80900000.0,#foodphotography
+384,#design,283320000.0,#design
+385,#instadaily,539450000.0,#instadaily
+386,#foodstagram,92000000.0,#foodstagram
+387,#photo,402390000.0,#photo
+388,#homemade,97730000.0,#homemade
+389,#london,149670000.0,#london
+390,#smile,407620000.0,#smile
+391,#foodblogger,59560000.0,#foodblogger
+392,#interiordesign,124150000.0,#interiordesign
+393,#followme,576120000.0,#followme
+394,#cake,102880000.0,#cake
+395,#happy,640190000.0,#happy
+396,#beauty,458060000.0,#beauty
+397,#lunch,94080000.0,#lunch
+398,#furniture,31270000.0,#furniture
+399,#dinner,111400000.0,#dinner
+400,#foodlover,57500000.0,#foodlover
+401,#cooking,48840000.0,#cooking
+402,#tasty,56560000.0,#tasty
+403,#instalike,435550000.0,#instalike
+404,#newyork,112670000.0,#newyork
+405,#dessert,65140000.0,#dessert
+406,#breakfast,104520000.0,#breakfast
+407,#fitness,455620000.0,#fitness
+408,#photographer,206350000.0,#photographer
+409,#sunset,283090000.0,#sunset
+410,#chocolate,98530000.0,#chocolate
+411,#girl,432340000.0,#girl
+412,#homedecor,97000000.0,#homedecor
+413,#travelphotography,154950000.0,#travelphotography
+414,#beach,270060000.0,#beach
+415,#dubai,109810000.0,#dubai
+416,#travelgram,144240000.0,#travelgram
+417,#summer,499130000.0,#summer
+418,#bhfyp,122210000.0,#bhfyp
+419,#amazing,295380000.0,#amazing
+420,#likeforlikes,298210000.0,#likeforlikes
+421,#decoration,44430000.0,#decoration
+422,#marketing,55660000.0,#marketing
+423,#homecooking,18360000.0,#homecooking
+424,#like4like,534720000.0,#like4like
+425,#naturephotography,160830000.0,#naturephotography
+426,#paris,129150000.0,#paris
+427,#cute,632730000.0,#cute
+428,#healthy,174590000.0,#healthy
+429,#designer,75810000.0,#designer
+430,#igers,292120000.0,#igers
+431,#life,384800000.0,#life
+432,#eat,50510000.0,#eat
+433,#landscape,166300000.0,#landscape
+434,#sky,241580000.0,#sky
+435,#decor,77340000.0,#decor
+436,#healthyfood,96990000.0,#healthyfood
+437,#canada,70230000.0,#canada
+438,#homedesign,25780000.0,#homedesign
+439,#furnituredesign,8970000.0,#furnituredesign
+440,#foodgasm,60690000.0,#foodgasm
+441,#home,174840000.0,#home
+442,#business,84590000.0,#business
+443,#makeup,343760000.0,#makeup
+444,#interior,68020000.0,#interior
+445,#sweet,125200000.0,#sweet
+446,#baking,32330000.0,#baking
+447,#sea,155030000.0,#sea
+448,#italy,141890000.0,#italy
+449,#followforfollowback,198220000.0,#followforfollowback
+450,#ootd,367970000.0,#ootd
+451,#interiors,28110000.0,#interiors
+452,#dentistry,7100000.0,#dentistry
+453,#lifestyle,278280000.0,#lifestyle
+454,#wedding,206390000.0,#wedding
+455,#me,450430000.0,#me
+456,#dentist,9820000.0,#dentist
+457,#model,309820000.0,#model
+458,#healthylifestyle,90970000.0,#healthylifestyle
+459,#odontologia,9830000.0,#odontologia
+460,#losangeles,74670000.0,#losangeles
+461,#weddingdress,43220000.0,#weddingdress
+462,#dental,6050000.0,#dental
+463,#california,93010000.0,#california
+464,#miami,79550000.0,#miami
+465,#branding,29990000.0,#branding
+466,#photoshoot,142510000.0,#photoshoot
+467,#bestoftheday,214260000.0,#bestoftheday
+468,#follow4follow,300500000.0,#follow4follow
+469,#motivation,277980000.0,#motivation
+470,#explore,234330000.0,#explore
+471,#berlin,48060000.0,#berlin
+472,#cakes,24010000.0,#cakes
+473,#clouds,120740000.0,#clouds
+474,#eggs,14130000.0,#eggs
+475,#inspiration,202030000.0,#inspiration
+476,#sunrise,75650000.0,#sunrise
+477,#friends,421740000.0,#friends
+478,#gym,212060000.0,#gym
+479,#stayhome,54660000.0,#stayhome
+480,#illustration,166450000.0,#illustration
+481,#mountains,91110000.0,#mountains
+482,#running,76350000.0,#running
+483,#sun,258740000.0,#sun
+484,#logo,26200000.0,#logo
+485,#interiorstyling,12720000.0,#interiorstyling
+486,#seeaustralia,5620000.0,#seeaustralia
+487,#dresses,25090000.0,#dresses
+488,#luxuryfurniture,1430000.0,#luxuryfurniture
+489,#fun,418480000.0,#fun
+490,#architecture,150390000.0,#architecture
+491,#bride,68850000.0,#bride
+492,#barcelona,62280000.0,#barcelona
+493,#massage,11400000.0,#massage
+494,#seo,6140000.0,#seo
+495,#india,133270000.0,#india
+496,#training,118890000.0,#training
+497,#adelaidefoodie,207540.0,#adelaidefoodie
+498,#adelaideeats,181130.0,#adelaideeats
+499,#aucklandcity,471160.0,#aucklandcity
+500,#melbournebrunch,463390.0,#melbournebrunch
+501,#melbournecafes,339900.0,#melbournecafes
+502,#melbournerestaurant,405720.0,#melbournerestaurant
+503,#mosman,230840.0,#mosman
+504,#maroubra,225080.0,#maroubra
+505,#coogee,493240.0,#coogee
+506,#glebe,186490.0,#glebe
+507,#parramatta,307420.0,#parramatta
+508,#randwick,128310.0,#randwick
+509,#redfern,161840.0,#redfern
+510,#melbournefoodblogger,385580.0,#melbournefoodblogger
+511,#melbournefoodscene,237870.0,#melbournefoodscene
+512,#eatmelbourne,344160.0,#eatmelbourne
+513,#southyarra,376790.0,#southyarra
+514,#melbournefoodies,406730.0,#melbournefoodies
+515,#melbourne_insta,477390.0,#melbourne_insta
+516,#australiagram_nsw,114470.0,#australiagram_nsw
+517,#stkilda,999110.0,#stkilda
+518,#ilovemelbourne,569840.0,#ilovemelbourne
+519,#zomatoaus,562650.0,#zomatoaus
+520,#goodfoodau,181260.0,#goodfoodau
+521,#melbmoment,387360.0,#melbmoment
+522,#brisbanefoodie,559890.0,#brisbanefoodie
+523,#brisbanefood,831710.0,#brisbanefood
+524,#brisbanecity,980280.0,#brisbanecity
+525,#melbournecbd,475440.0,#melbournecbd
+526,#wollongong,931250.0,#wollongong
+527,#brisbanefoodies,167770.0,#brisbanefoodies
+528,#harbourbridge,828570.0,#harbourbridge
+529,#northernbeaches,937790.0,#northernbeaches
+530,#surryhills,549740.0,#surryhills
+531,#darlingharbour,622130.0,"#darlingharbour, #visitsydney"
+532,#southmelbourne,235870.0,#southmelbourne
+533,#fremantle,894020.0,#fremantle
+534,#broadbeach,309550.0,#broadbeach
+535,#watsonsbay,170700.0,#watsonsbay
+536,#circularquay,305340.0,#circularquay
+537,#tauranga,449920.0,#tauranga
+538,#stkildabeach,195950.0,#stkildabeach
+539,#portmelbourne,253850.0,#portmelbourne
+540,#toronto,644330.0,"#toronto, #sydney"
+541,#melbournefoodiehub,47460.0,#melbournefoodiehub
+542,#savehospo,37870.0,#savehospo
+543,#sydneyvisit,192000.0,"#sydneyvisit, #visitsydney"
+544,#visitingsydney,116000.0,"#visitingsydney, #visitsydney"
+545,#visitssydney,13000.0,"#visitssydney, #visitsydney"
+546,#visitsydneyaustralia,482000.0,"#visitsydneyaustralia, #visitsydney"
+547,#sydneyvisits,104000.0,"#sydneyvisits, #visitsydney"
+548,#sydneyvisitorcentre,94000.0,"#sydneyvisitorcentre, #visitsydney"
+549,#visitsydneyau,33000.0,"#visitsydneyau, #visitsydney"
+550,#sydneyvisitors,32000.0,"#sydneyvisitors, #visitsydney"
+551,#visitsydney2016,23000.0,"#visitsydney2016, #visitsydney"
+552,#sydneyvisitor,14000.0,"#visitsydney, #sydneyvisitor"
+553,#sydneyvisitor,14000.0,"#visitsydney, #sydneyvisitor"
+554,#visitsydney2017,12000.0,"#visitsydney2017, #visitsydney"
+555,#tourismnsw,316450.0,"#tourismnsw, #visitsydney"
+556,#aussie_images,345270.0,"#aussie_images, #visitsydney"
+557,#travelaustralia,819560.0,"#travelaustralia, #visitsydney"
+558,#australia_shotz,911340.0,"#visitsydney, #australia_shotz"
+559,#lovensw,150550.0,"#lovensw, #visitsydney"
+560,#loveaustralia,201910.0,"#loveaustralia, #visitsydney"
+561,#mybrisbane,99970.0,#mybrisbane
+562,#sydneynsw,23250.0,"#sydneynsw, #visitsydney"
+563,#gorgeousviews,76440.0,"#gorgeousviews, #visitsydney"
+564,#coastliving,22930.0,"#coastliving, #visitsydney"
+565,#sydneytraveller,442000.0,"#sydneytraveller, #visitsydney"
+566,#fathersday,13860000.0,#fathersday
+567,#happyfathersday,7370000.0,"#fathersday, #happyfathersday"
+568,#fathersdaygifts,1320000.0,"#fathersdaygifts, #fathersday"
+569,#fatherday,448330.0,"#fathersday, #fatherday"
+570,#fathersdaygift,439000.0,"#fathersday, #fathersdaygift"
+571,#fathersday2020,382630.0,"#fathersday, #fathersday2020"
+572,#fathersdaygiftideas,252830.0,"#fathersday, #fathersdaygiftideas"
+573,#fathersday2019,238880.0,"#fathersday, #fathersday2019"
+574,#fathersdayweekend,233230.0,"#fathersdayweekend, #fathersday"
+575,#fathersday2018,223390.0,"#fathersday, #fathersday2018"
+576,#happyfatherday,214680.0,"#fathersday, #happyfatherday"
+577,#fathersday2021,166350.0,"#fathersday2021, #fathersday"
+578,#fathersday2017,162900.0,"#fathersday, #fathersday2017"
+579,#fathersday2016,148850.0,"#fathersday, #fathersday2016"
+580,#fathersday2015,128880.0,"#fathersday2015, #fathersday"
+581,#firstfathersday,194430.0,"#fathersday, #firstfathersday"
+582,#happyfathersday2020,136320.0,"#fathersday, #happyfathersday2020"
+583,#fatherdaughterday,37670.0,"#fatherdaughterday, #fathersday"
+584,#fathersonday,33120.0,"#fathersday, #fathersonday"
+585,#fathersbirthday,16950.0,"#fathersday, #fathersbirthday"
+586,#fathersdayeveryday,13360.0,"#fathersday, #fathersdayeveryday"
+587,#fatherandsonday,12370.0,"#fathersday, #fatherandsonday"
+588,#fatherhoodfriday,12030.0,"#fathersday, #fatherhoodfriday"
+589,#dayfather,669000.0,"#dayfather, #fathersday"
+590,#fathersdayiseveryday,634000.0,"#fathersdayiseveryday, #fathersday"
+591,#fathersdaysunday,265000.0,"#fathersday, #fathersdaysunday"
+592,#sydneydads,612000.0,"#sydneydads, #fathersday"
